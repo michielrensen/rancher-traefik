@@ -6,4 +6,4 @@ mode = "0644"
 keys = [
   "/stacks",
 ]
-
+reload_cmd = "/opt/tools/scripts/get_certificates.sh"
